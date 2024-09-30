@@ -1,1 +1,2 @@
 # TABLEAU REAL ESTATE INSIGHTS DASHBOARD---TECHNOHACKS-SOLUTIONS---DATA-ANALYSIS
+Developed a Tableau dashboard analyzing house sale prices by examining factors like price distribution, home quality, construction year, and neighborhood. Delivered insights on market trends, buyer preferences, and location-based property values, enabling users to make informed real estate investment decisions. Skills gained: Data Visualization, Trend Analysis, Real Estate Analytics.
